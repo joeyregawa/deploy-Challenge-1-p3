@@ -1,0 +1,334 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Matias",
+      "email": "muttridge0@phpbb.com",
+      "password": "FTCTIlPtUIW",
+      "role": "Admin",
+      "phoneNumber": "8437235835",
+      "address": "825 Express Street"
+    },
+    {
+      "id": 2,
+      "username": "Witty",
+      "email": "woatley1@cisco.com",
+      "password": "NzovvDH",
+      "role": "Admin",
+      "phoneNumber": "9412034447",
+      "address": "7 Center Center"
+    },
+    {
+      "id": 3,
+      "username": "Phil",
+      "email": "pburchard2@google.ru",
+      "password": "SdnEFgoXjl2S",
+      "role": "Admin",
+      "phoneNumber": "3748033169",
+      "address": "8 Eastlawn Circle"
+    },
+    {
+      "id": 4,
+      "username": "Arv",
+      "email": "adincke3@nydailynews.com",
+      "password": "fFkPbCHCKa0F",
+      "role": "Admin",
+      "phoneNumber": "2431301816",
+      "address": "4750 Corscot Road"
+    },
+    {
+      "id": 5,
+      "username": "Fons",
+      "email": "fpantecost4@dedecms.com",
+      "password": "qOiH4tsd0SeR",
+      "role": "Admin",
+      "phoneNumber": "1546009771",
+      "address": "88025 Alpine Lane"
+    },
+    {
+      "id": 6,
+      "username": "Winslow",
+      "email": "wbrain5@youtube.com",
+      "password": "YhGmjATq2",
+      "role": "User",
+      "phoneNumber": "4598172979",
+      "address": "63479 Sullivan Plaza"
+    },
+    {
+      "id": 7,
+      "username": "Pepita",
+      "email": "pgladdin6@parallels.com",
+      "password": "DnGHvvtM9",
+      "role": "User",
+      "phoneNumber": "1522341554",
+      "address": "65 Anniversary Circle"
+    },
+    {
+      "id": 8,
+      "username": "Jo",
+      "email": "jchesworth7@histats.com",
+      "password": "Pw4WKL2J",
+      "role": "User",
+      "phoneNumber": "4264449364",
+      "address": "71677 Mcbride Park"
+    },
+    {
+      "id": 9,
+      "username": "Sayers",
+      "email": "snoonan8@mozilla.org",
+      "password": "tsJwaf8TQzl",
+      "role": "User",
+      "phoneNumber": "9348160790",
+      "address": "725 Pawling Circle"
+    },
+    {
+      "id": 10,
+      "username": "Marlie",
+      "email": "mablitt9@twitter.com",
+      "password": "Zfh0iqkVBNu",
+      "role": "User",
+      "phoneNumber": "9877082347",
+      "address": "9459 Pierstorff Way"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Trueblue - Blueberry Cranberry",
+      "slug": "Potatoes - Yukon Gold 5 Oz",
+      "description": "grow robust mindshare",
+      "price": 174710,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2021-10-02 16:15:40",
+      "updateAt": "2022-02-07 14:54:53"
+    },
+    {
+      "id": 2,
+      "name": "Pasta - Fusili Tri - Coloured",
+      "slug": "Quail Eggs - Canned",
+      "description": "cultivate transparent eyeballs",
+      "price": 117279,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 2,
+      "authorId": 2,
+      "createdAt": "2021-07-27 13:08:16",
+      "updateAt": "2021-03-24 13:17:24"
+    },
+    {
+      "id": 3,
+      "name": "Wine - Red, Pinot Noir, Chateau",
+      "slug": "Cake Circle, Foil, Scallop",
+      "description": "incentivize impactful mindshare",
+      "price": 198158,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 3,
+      "authorId": 3,
+      "createdAt": "2021-09-29 17:19:25",
+      "updateAt": "2021-05-12 13:59:02"
+    },
+    {
+      "id": 4,
+      "name": "Shichimi Togarashi Peppeers",
+      "slug": "Scallop - St. Jaques",
+      "description": "expedite bleeding-edge paradigms",
+      "price": 180605,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 1,
+      "authorId": 4,
+      "createdAt": "2022-02-02 20:03:29",
+      "updateAt": "2021-07-10 14:37:48"
+    },
+    {
+      "id": 5,
+      "name": "Lamb - Whole Head Off",
+      "slug": "Salmon - Sockeye Raw",
+      "description": "mesh enterprise e-commerce",
+      "price": 193342,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 2,
+      "authorId": 5,
+      "createdAt": "2021-03-06 17:17:01",
+      "updateAt": "2021-03-15 15:47:27"
+    },
+    {
+      "id": 6,
+      "name": "Wine - White, Riesling, Semi - Dry",
+      "slug": "Canadian Emmenthal",
+      "description": "cultivate scalable e-markets",
+      "price": 179400,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 3,
+      "authorId": 6,
+      "createdAt": "2022-01-26 05:28:43",
+      "updateAt": "2021-08-20 19:05:12"
+    },
+    {
+      "id": 7,
+      "name": "Chocolate - Milk",
+      "slug": "Cotton Wet Mop 16 Oz",
+      "description": "generate plug-and-play synergies",
+      "price": 105553,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 1,
+      "authorId": 7,
+      "createdAt": "2021-03-28 18:25:16",
+      "updateAt": "2021-09-05 10:35:13"
+    },
+    {
+      "id": 8,
+      "name": "Dip - Tapenade",
+      "slug": "Sauce - Hoisin",
+      "description": "expedite best-of-breed eyeballs",
+      "price": 134072,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 2,
+      "authorId": 8,
+      "createdAt": "2021-12-08 15:53:38",
+      "updateAt": "2021-08-19 23:10:02"
+    },
+    {
+      "id": 9,
+      "name": "Split Peas - Yellow, Dry",
+      "slug": "Orange - Tangerine",
+      "description": "recontextualize bleeding-edge synergies",
+      "price": 118837,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 3,
+      "authorId": 9,
+      "createdAt": "2021-06-14 23:40:34",
+      "updateAt": "2021-09-22 02:32:24"
+    },
+    {
+      "id": 10,
+      "name": "Carbonated Water - Peach",
+      "slug": "Wine - Cabernet Sauvignon",
+      "description": "harness sticky schemas",
+      "price": 164872,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 1,
+      "authorId": 10,
+      "createdAt": "2021-06-06 14:24:18",
+      "updateAt": "2021-07-26 05:54:32"
+    },
+    {
+      "id": 11,
+      "name": "Carbonated Water - Peach",
+      "slug": "Wine - Cabernet Sauvignon",
+      "description": "harness sticky schemas",
+      "price": 164872,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/6917/474/800/2/w/850/6917474800_1_1_1.jpg?ts=1645186992133",
+      "categoryId": 1,
+      "authorId": 11,
+      "createdAt": "2021-06-06 14:24:18",
+      "updateAt": "2021-07-26 05:54:32"
+    },
+    {
+      "name": "BASIC LIGHTWEIGHT T-SHIRT",
+      "slug": "-",
+      "description": "Basic lightweight cotton T-shirt with a round neckline and short sleeves.",
+      "price": "300000",
+      "categoryId": "1",
+      "authorId": 1,
+      "mainImg": "https://static.zara.net/photos///2022/V/0/2/p/0526/421/250/2/w/850/0526421250_1_1_1.jpg?ts=1645173585641",
+      "createdAt": "2022-03-02T17:12:41.974Z",
+      "updatedAt": "2022-03-02T17:12:41.974Z",
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Jackswitch",
+      "createdAt": "2022-01-20 23:35:56",
+      "updateAt": "2021-07-09 22:58:24"
+    },
+    {
+      "id": 2,
+      "name": "Heartleaf Madeiravine",
+      "createdAt": "2021-09-06 03:35:34",
+      "updateAt": "2021-07-22 15:34:12"
+    },
+    {
+      "id": 3,
+      "name": "Borsch Stonecrop",
+      "createdAt": "2021-10-08 09:55:07",
+      "updateAt": "2022-01-24 22:38:02"
+    }
+  ],
+  "images": [
+    [
+      {
+        "id": 1,
+        "productId": 1,
+        "imgUrl": "http://dummyimage.com/152x100.png/cc0000/ffffff",
+        "createdAt": "2021-11-20 05:02:47",
+        "updateAt": "2021-03-24 11:53:55"
+      },
+      {
+        "id": 2,
+        "productId": 2,
+        "imgUrl": "http://dummyimage.com/216x100.png/cc0000/ffffff",
+        "createdAt": "2021-12-13 05:05:31",
+        "updateAt": "2021-05-08 20:05:41"
+      },
+      {
+        "id": 3,
+        "productId": 3,
+        "imgUrl": "http://dummyimage.com/167x100.png/cc0000/ffffff",
+        "createdAt": "2021-07-11 02:47:19",
+        "updateAt": "2021-05-18 01:45:20"
+      },
+      {
+        "id": 4,
+        "productId": 4,
+        "imgUrl": "http://dummyimage.com/207x100.png/ff4444/ffffff",
+        "createdAt": "2022-01-16 08:41:06",
+        "updateAt": "2021-08-23 18:53:08"
+      },
+      {
+        "id": 5,
+        "productId": 5,
+        "imgUrl": "http://dummyimage.com/105x100.png/cc0000/ffffff",
+        "createdAt": "2021-08-01 19:31:29",
+        "updateAt": "2021-04-14 10:14:01"
+      },
+      {
+        "id": 6,
+        "productId": 6,
+        "imgUrl": "http://dummyimage.com/180x100.png/dddddd/000000",
+        "createdAt": "2021-09-24 06:30:23",
+        "updateAt": "2022-02-09 22:37:12"
+      },
+      {
+        "id": 7,
+        "productId": 7,
+        "imgUrl": "http://dummyimage.com/139x100.png/cc0000/ffffff",
+        "createdAt": "2022-01-21 11:53:49",
+        "updateAt": "2021-03-23 07:18:14"
+      },
+      {
+        "id": 8,
+        "productId": 8,
+        "imgUrl": "http://dummyimage.com/221x100.png/dddddd/000000",
+        "createdAt": "2022-02-24 00:06:16",
+        "updateAt": "2022-02-11 05:34:08"
+      },
+      {
+        "id": 9,
+        "productId": 9,
+        "imgUrl": "http://dummyimage.com/166x100.png/dddddd/000000",
+        "createdAt": "2022-02-12 10:35:07",
+        "updateAt": "2021-08-04 21:51:21"
+      },
+      {
+        "id": 10,
+        "productId": 10,
+        "imgUrl": "http://dummyimage.com/178x100.png/dddddd/000000",
+        "createdAt": "2021-03-03 13:35:29",
+        "updateAt": "2022-01-24 01:03:03"
+      }
+    ]
+  ]
+}
